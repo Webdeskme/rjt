@@ -1,0 +1,31 @@
+{
+  "name": "rjt",
+  "version": "1.0.0",
+  "description": "Rich JSON Tables",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webdeskme/rjt.git"
+  },
+  "keywords": [
+    "rjt",
+    "rich",
+    "json",
+    "tables"
+  ],
+  "author": "Adam W. Telford",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Webdeskme/rjt/issues"
+  },
+  "homepage": "https://github.com/Webdeskme/rjt#readme",
+  "devDependencies": {
+    "electron": "^7.0.0"
+  },
+  "dependencies": {
+    "markdown-it": "^10.0.0"
+  }
+}
