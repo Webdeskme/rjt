@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Webdeskme/rjt#readme",
   "devDependencies": {
-    "electron": "^7.0.0"
+    "electron": "^7.2.4"
   },
   "dependencies": {
     "fs-extra": "^8.1.0",
